@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:06B6D4,100:7C3AED&text=Kaushal%20Upadhyay&fontColor=ffffff&fontSize=42&animation=fadeIn" />
 <h1 align="center">Hi 👋, I'm Kaushal Upadhyay</h1>
 <h3 align="center">Frontend Developer | Creative Web Designer | Learning AI & Development</h3>
 
@@ -51,6 +52,66 @@ Working on AI-based tools and useful products for the future.
 </p>
 
 ---
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=upadhyaykaushal77-ctrl&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=upadhyaykaushal77-ctrl&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=upadhyaykaushal77-ctrl&theme=tokyo-night" />
+</p>
+
+---
+---
+
+## 🎯 Goals 2026
+
+- ✅ Complete EduTrack Pro
+- ✅ Learn React
+- ✅ Upload 50+ Projects
+- ✅ Contribute to Open Source
+- ✅ Build AI Tools
+- ✅ Create Professional Portfolio
+- ✅ Reach 100 GitHub Contributions
+
+---
+
+## 📜 Certificates
+
+### 🏅 Unity Learn
+- ✅ Get Started with Game Jams (Completed)
+
+<p align="center">
+  <img src="YOUR_CERTIFICATE_IMAGE_LINK" width="700"/>
+</p>
+
+### 🏅 HTML
+- ⏳ In Progress
+
+### 🏅 CSS
+- ⏳ In Progress
+
+### 🏅 JavaScript
+- ⏳ In Progress
+
+### 🏅 React
+- ⏳ Coming Soon
+
+---
 
 ## ✨ Quote
 > “Build skills. Build projects. Build your own future.”
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:06B6D4,100:7C3AED" />
