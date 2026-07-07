@@ -43,20 +43,11 @@ Working on AI-based tools and useful products for the future.
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=upadhyaykaushal77-ctrl&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyaykaushal77-ctrl&layout=compact&theme=tokyonight" height="170" />
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=upadhyaykaushal77-ctrl&theme=tokyonight" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=upadhyaykaushal77-ctrl&show_icons=true&theme=github_dark&cache_seconds=1800" />
 
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="https://github.com/upadhyaykaushal77-ctrl">GitHub</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upadhyaykaushal77-ctrl&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 
 ---
