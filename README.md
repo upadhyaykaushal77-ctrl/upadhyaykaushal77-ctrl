@@ -110,6 +110,12 @@ Working on AI-based tools and useful products for the future.
 ### 🏅 React
 - ⏳ Coming Soon
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/upadhyaykaushal77-ctrl/upadhyaykaushal77-ctrl/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 ---
 
 ## ✨ Quote
